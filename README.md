@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Shivansh!
 
 - 🔭 I’m currently working on: secret
-- 🌱 I’m currently learning: Apache KAFKA
+- 🌱 I’m currently learning: Apache KAFKA, hierarchical agent systems, optimized c++
 - 👯 I’m looking to collaborate on: Open source projects
 - 🤔 I’m looking for help with: Finding internships
 - 💬 Ask me about: Fun project ideas
