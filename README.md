@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Shivansh!
 
-- 🔭 I’m currently working on: secret
+- 🔭 I’m currently working on: startup
 - 🌱 I’m currently learning: Apache KAFKA, hierarchical agent systems, optimized c++
 - 👯 I’m looking to collaborate on: Open source projects
 - 🤔 I’m looking for help with: Finding internships
