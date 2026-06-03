@@ -1,10 +1,8 @@
-## Hi there 👋 I'm Shivansh!
+## Welcome to my GitHub :)
 
-- 🔭 I’m currently working on: startup
-- 🌱 I’m currently learning: Apache KAFKA, hierarchical agent systems, optimized c++
-- 👯 I’m looking to collaborate on: Open source projects
-- 🤔 I’m looking for help with: Finding internships
-- 💬 Ask me about: Fun project ideas
-- 📫 How to reach me: You can reach me through my LinkedIn account
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: There was a bug with my git config so my commits before October didn't show :/ there should be around 100 more commits
+I code pretty much every day even though I don't push code here as often. Recently I've been getting deeper 
+into CUDA and TensorRT and really enjoy working with C++ and CUDA at the kernel level. I believe the biggest
+and the most important problem in AI today is scalability, and want to work on making efficient and optimized
+multimodal language model to ensure cheap and skillful AI for everyone!
+
+Open to internships and open-source projects.
